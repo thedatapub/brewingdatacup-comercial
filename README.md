@@ -14,14 +14,13 @@ Debemos obtener el pronóstico de cada subagencia - sku.
 
 ### Reto
 
-Si te damos las coordenadas geográficas de los orígenes y destinos, ¿puedes calcular la distancia recorrida de cada ruta?. Te daremos información de más de 131,000 viajes reales.
+En Grupo Modelo pronosticamos la demanda de más de 200 skus en más de 200 subagencias. Las
+subagencias son nuestros almacenes que distribuyen hacía los puntos de ventas (tienditas, restaurantes, bares, depósitos,…)
 
-¿Podrías pronosticar la distancia recorrida y los costos de transporte de mayo? ¿Introducirías variables externas como el costo de gasolina?
+Este pronóstico es el input para determinar qué debemos de producir, por lo que:
 
-Más allá de eso, ¿Serías capaz de crear una estrategia en la que utilicemos a las transportistas únicamente en las rutas en las que más nos convenga?
-Si te damos el histórico de ventas de cada subagencia - sku de Enero 2015 a Febrero 2018 y  las coordenadas geográficas de las subagencia.
-
-¿Podrías realizar el mejor pronóstico para los meses de Febrero, Marzo, Abril y Mayo del 2018 utilizando sólo la información de hasta 2 meses anteriores?
+1. Debemos de tenerlo con 2 meses de anticipación, es decir, con información al cierre de Enero del 2018 damos el pronóstico de Marzo 2018. 
+2. Debemos obtener el pronóstico de cada subagencia - sku
 
 ### Información disponible 
 ![](https://i.imgur.com/eKBEivn.png)
