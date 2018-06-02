@@ -25,11 +25,6 @@ Este pronóstico es el input para determinar qué debemos de producir, por lo qu
 ### Información disponible 
 ![](https://i.imgur.com/eKBEivn.png)
 
-### Insights
-
-¿A cuánto asciende el sobrecosto por km que pagará la compañía en mayo? i.e. la suma de tarifas efectivamente pagadas en viajes “caros” considerando los diferentes tipo de transporte. 
-¿Qué estrategia puedes desarrollar para disminuir el sobrecosto? Tomando en cuenta que la flota disponible de cada transportista es limitada.
-
 ## Diccionario de datos
 ![](https://i.imgur.com/MPaunlw.png)
 
